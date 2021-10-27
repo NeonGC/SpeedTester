@@ -1,0 +1,26 @@
+## IDEA ##
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+*.ids
+
+## NetBeans ##
+build/
+dist/
+nbbuild/
+nbdist/
+nbproject/
+nb-configuration.xml
+nbactions.xml
+manifest.mf
+build.xml
+
+## MAVEN ##
+target/
+
+## OTHER ##
+logs/
+*.log
+*.bat
